@@ -1,0 +1,39 @@
+git pull <remote> <branch>
+
+git pull https://vcgl.tjdplatform.com/tjdline/B52-TanjaiD-Api.git develop
+
+git checkout -b feature/customer_follow_shop
+
+git pull https://vcgl.tjdplatform.com/tjdline/B52-TanjaiD-Api.git feature/customer_follow_shop
+
+
+
+B52-TanjaiD-Line
+
+git checkout -b develop
+
+git pull https://vcgl.tjdplatform.com/tjdline/B52-TanjaiD-Line.git develop
+
+git checkout -b feature/customer_follow_shop
+
+git pull https://vcgl.tjdplatform.com/tjdline/B52-TanjaiD-Line.git feature/customer_follow_shop
+
+
+
+b52-sale-tools-front
+
+git checkout -b develop
+
+git pull https://vcgl.tjdplatform.com/tjdline/b52-sale-tools-front.git develop
+
+
+
+b52-tanjai-d-customer 
+
+git checkout -b develop
+
+git pull https://vcgl.tjdplatform.com/tjdline/b52-tanjai-d-customer.git develop
+
+git checkout -b feature/follow_shop
+
+git pull https://vcgl.tjdplatform.com/tjdline/b52-tanjai-d-customer.git feature/follow_shop
